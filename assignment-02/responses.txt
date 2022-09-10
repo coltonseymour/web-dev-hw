@@ -1,4 +1,3 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Unlike other types of files, directories contain only the information necessary for accessing files and other directories. Directories consume less space than other types of files as a result. 
+Managing and tracking document, file, and other data changes is done using a Version Control System (VCS). Using them, you can collaborate with multiple developers, designers, and team members at the same time.
+Ever since I was young, I've had an interest in the graphic artistic medium. I love creating in the Adobe Suite, specifically Photoshop and Illustrator. There is simply so much that you can do!
