@@ -1,0 +1,7 @@
+Responses to Moodle Questions:
+
+1. To load Internet resources, DNS converts domain names into IP addresses. The IP address assigned to each device connected to the Internet is used by other machines to locate the device. 
+
+2. A web server creates HTTP cookies, which are small blocks of data, when a user browses a website and the web browser places them on the user's computer or other devices. During a session, a cookie may be placed on more than one device used by a user to access a website.
+
+3. The three essential parts of a URL are as followed: the protocol, the domain, and the paths. 
