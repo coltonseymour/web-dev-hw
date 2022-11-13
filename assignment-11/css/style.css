@@ -1,0 +1,68 @@
+#header{
+    background-image: url("../images/the\ child.png");
+    background-size: 600px;
+    background-position: center, bottom;
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: #000000;
+    opacity: 0;
+    font-family: Mandalore;
+    font-size: 150px;
+    letter-spacing: 0.3em;
+    text-align: center;
+}
+
+#title:hover{
+    letter-spacing: 0.3em;
+    font-weight: 700;
+    color: #ffffff;
+    opacity: 100;
+    background-color: black;
+}
+
+.titleBorder{
+    height: 200px;
+    background-color: black;
+    color: black;
+}
+
+.titleBorder:hover{
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    font-family: BebasNeue;
+    text-align: center;
+}
+
+.subtitle{
+    padding-top: 50px;
+    font-size: 75px;
+    margin: auto;
+}
+
+.content-paragraph{
+    margin: auto;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    line-height: 26px;
+    max-width: 650px;
+    font-family: BebasNeue;
+}
+
+.content-paragraph:first-line{
+    font-size: 30px;
+    font-family: BebasNeue;
+    line-height: 40px;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+}
+
+img {
+    border: 15px solid #787878;
+}
