@@ -1,0 +1,184 @@
+.subtitle{
+    padding-top: 50px;
+    font-size: 40px;
+    margin: auto;
+    text-align: center;
+    font-family: BebasNeue;
+    color: white;
+}
+
+.content-paragraph{
+    margin: auto;
+    color: white;
+    font-size: 26px;
+    line-height: 26px;
+    max-width: 700px;
+    font-family: BebasNeue;
+    text-align: center;
+}
+
+.logo-big {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 44%;
+}
+
+img {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#first-bar {
+    margin-top: 4em;
+    padding: 1em;
+}
+
+#header {
+    color: white;
+}
+
+.header-img {
+    transform: scale(20%);
+    margin-top: -11.25%;
+    margin-right: 9%;
+}
+
+/* Menu Styling */
+header {
+    position: fixed;
+    background-color: black;
+    width: 98.86%;
+    height: 4em;
+    top: 0px;
+    font-family: BebasNeue;
+    text-align: right;
+}
+
+/* Menu Layout */
+.menu-item {
+    display: inline-block;
+    margin: 1em .2em;
+    background-color: white;
+    padding: 0.5em 1em;
+    border-radius: 1em;
+    min-width: 6em;
+    text-align: center;
+}
+
+.menu-item:hover {
+    background-color: #787878;
+    color: white;
+}
+
+/* Link Styling */
+.menu-item a {
+    color: black;
+    text-decoration: none;
+}
+
+/* Dropdown Menu */
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    margin: 0.5em 0 0 -1em;
+    color: black;
+    background-color: white;
+    z-index: 1;
+    border-radius: 0em 0em 1em 1em;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Dropdown Styling */
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 6em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: white;
+    background-color: #787878;
+}
+
+#Other-productions:hover {
+    border-radius: 0em 0em 1em 1em;
+}
+
+.dropdown:hover {
+    border-radius: 1em 1em 0em 0em;
+}
+
+/* Site Name Styling */
+.site-name {
+    color: white;
+    float: left;
+    min-width: 6em;
+    padding: 0.5 1em;
+    letter-spacing: 0.3em;
+    font-weight: bold;
+    margin: 1em .2em;
+    margin-left: 1em;
+    padding-top: .5em;
+}
+
+#header {
+    text-align: center;
+    font-size: 75px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* Background Image */
+body {
+    background-image: url("../images/BG.jpeg");
+    background-size: cover;
+}
+
+.contact {
+    color: white;
+    font-family: BebasNeue;
+    font-size: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    display: center;
+    text-align: center;
+    
+}
+
+.colton-photo {
+    float: left;
+    padding-left: 4em;
+    padding-top: 2em;
+}
+
+.about-text {
+    color: white;
+    text-align: center;
+    font-family: bebasneue; 
+    font-size: 40px;
+    padding-left: 18em;
+    padding-right: 2em;
+}
+
+.video1 {
+    padding-left: 27em;
+}
+
+.video2{
+    padding-left: 27em;
+}
+
+.video3{
+    padding-left: 27em;
+}
